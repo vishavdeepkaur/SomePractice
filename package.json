@@ -1,5 +1,5 @@
 {
-  "name": "abc",
+  "name": "sarry",
   "version": "1.0.0",
   "description": "abc",
   "main": "app.js",
@@ -15,5 +15,13 @@
     "projects"
   ],
   "author": "vishavdeep",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vishavdeepkaur/SomePractice.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vishavdeepkaur/SomePractice/issues"
+  },
+  "homepage": "https://github.com/vishavdeepkaur/SomePractice#readme"
 }
